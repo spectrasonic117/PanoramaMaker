@@ -1,0 +1,7 @@
+messages:
+    initial-instructions: "<dark_purple><b>Please put your game in windowed and 1024x1024 and your FOV at 90."
+    screenshot-instruction: '<dark_purple><b>Name it "panorama_%index%.png"'
+    finished: "<dark_purple><b>Finished!"
+    wait-message: "<dark_purple><b>Wait until the other player finishes his panorama!"
+
+wait_time: 3
